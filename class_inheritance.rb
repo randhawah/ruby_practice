@@ -1,6 +1,6 @@
 class Animal
     def speak
-    "Hello!"
+    "Hello!!"
     end
 end
 
@@ -12,5 +12,5 @@ end
 
 sparky = GoodDog.new
 paws = Cat.new
-puts sparky.speak           # => Hello!
-puts paws.speak             # => Hello!
+puts sparky.speak           # => Hello!!
+puts paws.speak             # => Hello!!
